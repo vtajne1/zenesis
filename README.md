@@ -1,0 +1,2 @@
+# zenesis
+ zenesis project new
